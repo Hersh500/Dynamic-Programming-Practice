@@ -1,7 +1,9 @@
-import turtle
-
 #Create a fractal tree with random characteristics
+
+import turtle
 from random import *
+
+
 #penSize goes down as tree becomes thinner
 def tree(branchLen,t, penSize):
 	if branchLen > 5:
