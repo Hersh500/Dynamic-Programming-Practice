@@ -1,5 +1,7 @@
 import java.util.Arrays;
-
+/* 
+	Given a sequence of n real numbers A(1) ... A(n), determine a contiguous subsequence A(i) ... A(j) for which the sum of elements in the subsequence is maximized.
+*/ 
 public class mvcs 
 {
 	public static void main(String[] args) 
